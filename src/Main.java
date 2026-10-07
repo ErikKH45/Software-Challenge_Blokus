@@ -11,5 +11,7 @@ void main() {
         IO.println("i = " + i);
         IO.print("hello");
         IO.println("Ich mag ERIK");
+        IO.print("hello");
+
     }
 }
